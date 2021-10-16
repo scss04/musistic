@@ -71,6 +71,7 @@ class _HomePageState extends State<HomePage> {
             SizedBox(
               height: 3.0.h,
             ),
+            //Scan device button
             PrimaryButton(
               onPressed: () {},
               text: "SCAN DEVICE",
